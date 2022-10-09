@@ -1,3 +1,9 @@
+{
+    Author : AWADEME Ronaldo
+    Email: awademeronaldoo@gmail.com
+}
+
+
 program amusement;
 uses crt;
 var i,l:integer;
